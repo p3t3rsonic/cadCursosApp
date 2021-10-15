@@ -1,0 +1,7 @@
+{
+  "name": "cadCursosApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
